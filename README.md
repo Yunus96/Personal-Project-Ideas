@@ -8,6 +8,7 @@ In this repo. I'm listing my personal project ideas (todo).
    - 2 Factor Authentication
    - Forgot Password functionality
    - Reset Password functionality
+2. Pseudo Indian Stock Market API
 1. Edit PDF Online
 2. YouTube Downloader
    - check this repo [Youtube dowloader real project](https://github.com/fent/node-ytdl-core)
